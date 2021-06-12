@@ -1,3 +1,3 @@
-# Excel-Projects
+# Top-Languages
 
-This Repository includes projects that were made using excel 
+This is a project on analysis of top languages spoken using excel
